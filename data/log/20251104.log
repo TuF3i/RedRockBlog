@@ -1,0 +1,49 @@
+[FileLog] 2025/11/04 13:23:12 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:23:12 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:24:24 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:24:24 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:31:20 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:44:07 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:45:55 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/04 13:46:28 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'id' in 'field list'
+[FileLog] 2025/11/04 13:51:03 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 13:51:03 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 13:57:03 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：record not found
+[FileLog] 2025/11/04 13:57:47 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1062 (23000): Duplicate entry '722519f7c64dd624a173eb0549f1cfec' for key 'users.PRIMARY'
+[FileLog] 2025/11/04 14:02:27 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 14:03:23 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：oauth2: "bad_verification_code" "The code passed is incorrect or expired." "https://docs.github.com/apps/managing-oauth-apps/troubleshooting-oauth-app-access-token-request-errors/#bad-verification-code"
+[FileLog] 2025/11/04 14:59:59 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'name' in 'field list'
+[FileLog] 2025/11/04 15:03:06 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 15:30:36 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 15:35:22 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 20:33:01 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`blog`.`comments`, CONSTRAINT `fk_comments_child_comments` FOREIGN KEY (`parent_id`) REFERENCES `comments` (`id`))
+[FileLog] 2025/11/04 20:51:31 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`blog`.`comments`, CONSTRAINT `fk_comments_child_comments` FOREIGN KEY (`parent_id`) REFERENCES `comments` (`id`))
+[FileLog] 2025/11/04 20:54:43 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`blog`.`comments`, CONSTRAINT `fk_comments_child_comments` FOREIGN KEY (`parent_id`) REFERENCES `comments` (`id`))
+[FileLog] 2025/11/04 20:56:50 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 20:58:38 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 20:59:47 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 21:28:51 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 21:30:53 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1062 (23000): Duplicate entry '722519f7c64dd624a173eb0549f1cfec' for key 'articles.idx_articles_author_id'
+[FileLog] 2025/11/04 21:32:23 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 21:32:53 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 21:34:41 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 21:36:44 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'update_at' in 'field list'
+[FileLog] 2025/11/04 21:38:43 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：record not found
+[FileLog] 2025/11/04 21:42:04 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：record not found
+[FileLog] 2025/11/04 23:00:34 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'id' in 'where clause'
+[FileLog] 2025/11/04 23:10:19 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 23:12:03 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1146 (42S02): Table 'blog.work_with_ext_names' doesn't exist
+[FileLog] 2025/11/04 23:15:28 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'name' in 'where clause'
+[FileLog] 2025/11/04 23:16:31 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1054 (42S22): Unknown column 'name' in 'where clause'
+[FileLog] 2025/11/04 23:23:46 llog.go:87: [ERROR] 127.0.0.1 - 该作品不存在
+[FileLog] 2025/11/04 23:24:12 llog.go:87: [ERROR] 127.0.0.1 - 该评论不属于你
+[FileLog] 2025/11/04 23:26:49 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 23:27:28 llog.go:87: [ERROR] 127.0.0.1 - 该评论不属于你
+[FileLog] 2025/11/04 23:27:48 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：WHERE conditions required
+[FileLog] 2025/11/04 23:29:25 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：WHERE conditions required
+[FileLog] 2025/11/04 23:35:54 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'created_at' at row 1
+[FileLog] 2025/11/04 23:39:09 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'created_at' at row 1
+[FileLog] 2025/11/04 23:42:12 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 23:47:17 llog.go:87: [ERROR] 127.0.0.1 - 你未获得授权
+[FileLog] 2025/11/04 23:53:39 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/04 23:54:15 llog.go:87: [ERROR] 127.0.0.1 - 你未获得授权
