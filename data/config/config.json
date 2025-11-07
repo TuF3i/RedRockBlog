@@ -1,14 +1,14 @@
 {
   "OidcProvider" : "https://token.actions.githubusercontent.com",
-  "ClientID" : "Ov23limQhyUmiiiG6ADU",
-  "ClientSecret": "f78b050a9f27d0864785eca76fcabc0d33b46b47",
+  "ClientID" : "",
+  "ClientSecret": "",
   "Domain" : "127.0.0.1",
   "apiListeningPort" : "8080",
 
-  "MySQLAddr" : "47.108.184.229",
+  "MySQLAddr" : "",
   "MySQLPort": "3306",
   "MySQLUser" : "root",
-  "MySQLPassword" : "eeelcgkklo12l13l17gg",
+  "MySQLPassword" : "",
   "MySQLDBName" : "blog",
 
   "i18nProfilePath" : [
