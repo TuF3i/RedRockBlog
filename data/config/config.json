@@ -1,0 +1,21 @@
+{
+  "OidcProvider" : "https://token.actions.githubusercontent.com",
+  "ClientID" : "",
+  "ClientSecret": "",
+  "Domain" : "127.0.0.1",
+  "apiListeningPort" : "8080",
+
+  "MySQLAddr" : "",
+  "MySQLPort": "3306",
+  "MySQLUser" : "root",
+  "MySQLPassword" : "",
+  "MySQLDBName" : "blog",
+
+  "i18nProfilePath" : [
+    "data/i18n/active.en.json",
+    "data/i18n/active.zh.json"
+  ],
+
+  "MaxCommentLevel": 3
+
+}

@@ -1,0 +1,11 @@
+[FileLog] 2025/11/03 20:28:32 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：oidc: issuer did not match the issuer returned by provider, expected "https://github.com/login/oauth" got "https://github.com"
+[FileLog] 2025/11/03 21:15:11 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：key is of invalid type: ECDSA sign expects *ecdsa.PrivateKey
+[FileLog] 2025/11/03 21:20:08 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：key is of invalid type: ECDSA sign expects *ecdsa.PrivateKey
+[FileLog] 2025/11/03 21:31:37 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：key is of invalid type: ECDSA sign expects *ecdsa.PrivateKey
+[FileLog] 2025/11/03 21:33:56 llog.go:87: [ERROR] 127.0.0.1 - 服务器错误：key is of invalid type: ECDSA sign expects *ecdsa.PrivateKey
+[FileLog] 2025/11/03 21:36:30 llog.go:65: [DEBUG] 127.0.0.1 - 操作成功
+[FileLog] 2025/11/03 21:37:10 llog.go:87: [ERROR] 127.0.0.1 - 不支持该令牌
+[FileLog] 2025/11/03 21:37:19 llog.go:87: [ERROR] 127.0.0.1 - 不支持该令牌
+[FileLog] 2025/11/03 21:40:04 llog.go:87: [ERROR] 127.0.0.1 - 不支持该令牌
+[FileLog] 2025/11/03 21:52:11 llog.go:87: [ERROR] 127.0.0.1 - 你未登录
+[FileLog] 2025/11/03 21:52:11 llog.go:87: [ERROR] 127.0.0.1 - 你未登录

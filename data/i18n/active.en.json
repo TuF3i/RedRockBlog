@@ -1,0 +1,50 @@
+{
+  "hello": {
+    "other": "Hello, {{.Name}}!"
+  },
+  "login_success": {
+    "other": "Login successful"
+  },
+  "not_login": {
+    "other": "You are not logged in"
+  },
+  "add_user_error_user_exist": {
+    "other": "User {{.User}} Already Exist"
+  },
+  "server_error": {
+    "other": "Server Error: {{.ErrorMsg}}"
+  },
+  "add_user_error_user_not_exist": {
+    "other": "User {{.User}} Not Exist"
+  },
+  "token_not_support": {
+    "other": "Token Not Support"
+  },
+  "add_comment_error": {
+    "other": "Add Comment Error: {{.ErrorMsg}}"
+  },
+  "reach_max_level": {
+    "other": "Comment Reach The Max Level"
+  },
+  "comment_not_belong_you": {
+    "other": "The Comment not Belong to You"
+  },
+  "comment_not_exist": {
+    "other": "The Comment not Exist"
+  },
+  "can_not_find_father_comment": {
+    "other": "Can not Find Father Comment"
+  },
+  "work_not_belong_you": {
+    "other": "The Work not Belong to You"
+  },
+  "work_not_exist": {
+    "other": "The Work not Exist"
+  },
+  "you_are_not_authorized": {
+    "other": "You are not Authorized"
+  },
+  "operation_success": {
+    "other": "Operation Success"
+  }
+}

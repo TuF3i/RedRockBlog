@@ -1,0 +1,50 @@
+{
+  "hello": {
+    "other": "你好，{{.Name}}！"
+  },
+  "login_success": {
+    "other": "登录成功"
+  },
+  "not_login": {
+    "other": "你未登录"
+  },
+  "add_user_error_user_exist": {
+    "other": "用户{{.User}}已存在"
+  },
+  "server_error": {
+    "other": "服务器错误：{{.ErrorMsg}}"
+  },
+  "add_user_error_user_not_exist": {
+    "other": "用户{{.User}}不存在"
+  },
+  "token_not_support": {
+    "other": "不支持该令牌"
+  },
+  "add_comment_error": {
+    "other": "添加评论错误：{{.ErrorMsg}}"
+  },
+  "reach_max_level": {
+    "other": "评论已达到最大层级"
+  },
+  "comment_not_belong_you": {
+    "other": "该评论不属于你"
+  },
+  "comment_not_exist": {
+    "other": "该评论不存在"
+  },
+  "can_not_find_father_comment": {
+    "other": "找不到父评论"
+  },
+  "work_not_belong_you": {
+    "other": "该作品不属于你"
+  },
+  "work_not_exist": {
+    "other": "该作品不存在"
+  },
+  "you_are_not_authorized": {
+    "other": "你未获得授权"
+  },
+  "operation_success": {
+    "other": "操作成功"
+  }
+}
